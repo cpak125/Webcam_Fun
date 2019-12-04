@@ -58,3 +58,7 @@ html {
   .strip a:nth-child(5n+3) img { transform: rotate(8deg); }
   .strip a:nth-child(5n+4) img { transform: rotate(-11deg); }
   .strip a:nth-child(5n+5) img { transform: rotate(12deg); }
+
+  .hidden {
+    visibility: hidden;
+  }
